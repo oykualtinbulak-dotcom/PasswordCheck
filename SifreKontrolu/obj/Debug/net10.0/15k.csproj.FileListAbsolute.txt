@@ -1,0 +1,15 @@
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\15k\bin\Debug\net10.0\15k.exe
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\15k\bin\Debug\net10.0\15k.deps.json
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\15k\bin\Debug\net10.0\15k.runtimeconfig.json
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\15k\bin\Debug\net10.0\15k.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\15k\bin\Debug\net10.0\15k.pdb
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\15k\obj\Debug\net10.0\15k.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\15k\obj\Debug\net10.0\15k.AssemblyInfoInputs.cache
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\15k\obj\Debug\net10.0\15k.AssemblyInfo.cs
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\15k\obj\Debug\net10.0\15k.csproj.CoreCompileInputs.cache
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\15k\obj\Debug\net10.0\15k.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\15k\obj\Debug\net10.0\refint\15k.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\15k\obj\Debug\net10.0\15k.pdb
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\15k\obj\Debug\net10.0\15k.genruntimeconfig.cache
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\15k\obj\Debug\net10.0\ref\15k.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\15k\obj\Debug\net10.0\15k.csproj.Up2Date
